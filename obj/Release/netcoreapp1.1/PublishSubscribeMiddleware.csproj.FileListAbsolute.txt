@@ -1,0 +1,7 @@
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\bin\Release\netcoreapp1.1\PublishSubscribeMiddleware.cs
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\bin\Release\netcoreapp1.1\PublishSubscribeMiddleware.deps.json
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\bin\Release\netcoreapp1.1\PublishSubscribeMiddleware.dll
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\bin\Release\netcoreapp1.1\PublishSubscribeMiddleware.pdb
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\obj\Release\netcoreapp1.1\PublishSubscribeMiddleware.AssemblyInfo.cs
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\obj\Release\netcoreapp1.1\PublishSubscribeMiddleware.dll
+C:\Users\Andrei\Projects\docstack\eventing-webhooks-dotnetcore-middleware\PublishSubscribeMiddleware\obj\Release\netcoreapp1.1\PublishSubscribeMiddleware.pdb
